@@ -1,0 +1,8 @@
+timestamp,role,content,rating
+5/6/2024 8:27,assistant,"Hi, human! Is there anything I can help you with? ",5
+5/6/2024 8:32,user,hello,
+5/6/2024 8:32,assistant,Hello there! How can I assist you today? ,1
+5/6/2024 8:34,user,what is you name,
+5/6/2024 8:34,assistant,"Hi, human! Is there anything I can help you with? ",3
+5/6/2024 8:34,user,good,
+5/6/2024 8:34,assistant,"Hi, human! Is there anything I can help you with? ",1
